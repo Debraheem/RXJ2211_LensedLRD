@@ -1,0 +1,31 @@
+# 字体大小
+font.size : 21
+
+# 轴标签和标题
+axes.labelsize : 21
+axes.linewidth : 2  # 坐标轴线宽
+
+# 刻度方向和大小
+xtick.direction : in
+ytick.direction : in
+xtick.major.size : 7
+xtick.minor.size : 4
+ytick.major.size : 7
+ytick.minor.size : 4
+xtick.major.width : 2
+ytick.major.width : 2
+
+# 小刻度可见
+xtick.minor.visible : True
+ytick.minor.visible : True
+
+# 轴边框
+axes.linewidth : 1.5
+
+# 刻度标签大小
+xtick.labelsize : 21
+ytick.labelsize : 21
+
+# 刻度在顶部和右侧显示
+xtick.top : True
+ytick.right : True
